@@ -8,4 +8,4 @@ In the Pipeline:
 
 -Regular Expressions to Lambda/Epsilon NFA's
 
--JavaFX Visualization
+-JavaFX Graph Visualization
